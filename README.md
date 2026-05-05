@@ -14,7 +14,7 @@ The objective of these workshops is to develop foundational skills in understand
 
 ## Getting Ready for AI Summer
 
-### Learn or Improve Your Python
+### Learn or Improve Your Python **optional***
 
 Practice your Python skills using the below documents. Choose either a Google Colab for interactive programming environment, or alternatively read through the Google Doc.
 
