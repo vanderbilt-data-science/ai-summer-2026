@@ -1,15 +1,13 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanderbilt-data-science/ai-summer-2025)
 
 # AI Summer
-> Summary repository for AI Summer 2025. Introduction to generative AI, with practical applications for inferencing and training
-> May 5-30, 2025
+> Summary repository for AI Summer 2026. Introduction to generative AI, with practical applications for inferencing and training
+> May 5-30, 2026
 
 Presented by Vanderbilt Data Science Institute data scientists:
 * Dr. Jesse Spencer-Smith, Chief Data Scientist
-* Dr. Charreau Bell, Senior Data Scientist
-* Myranda Shirk, Senior Data Scientist
 * Umang Chaudhry, Senior Data Scientist
-* Dr. Abigail Petulante, DSI Postdoctoral Fellow
+* Myranda Shirk, Senior Data Scientist
 
 ## Overview
 The objective of these workshops is to develop foundational skills in understanding, inferencing and training generative AI models and other transformer models.  
@@ -37,46 +35,14 @@ Think about any data you might want to bring to the workshop. Also begin thinkin
 
 Session will run live from 11am-1pm, with an office hour from 1pm to 2pm (all times Central). 
 
-### Week 1, 5/5 - 5/9: Introduction to Generative AI Models, AI Augmented Programming, and Secure Data Practices. 
+### Week 1, 
 
-[Monday](https://vanderbilt.zoom.us/rec/share/up-Ap0t3Vp6hhh5etFkA0N65pN_7ysy_179KJRpeD27nsv_6V0_fozPKyFDHrkl8.fSQFZoOAPQ2tUm0N): Introduction to Generative AI Models, AI Augmented Programming (cursor, windsurf, replit etc.)
+### Week 2, 
 
-[Wednesday](https://vanderbilt.zoom.us/rec/share/FhlGu24v5ftvVOVmzmMK8UWh7iQYEzydXJLcarSSZjmnXj0v0Sth1bDtEGJncHzG.YKayWhFD9XpQ-6tU): API Keys, Secure Data Practices
+### Week 3, 
 
-For Wednesday's course, please download and sign up for the following:
+### Week 4, 
 
-- Download [LMStudio](https://lmstudio.ai/download)
-- Register an account on [HuggingFace](https://huggingface.co/) and generate an API Token
-    - Create an account, then navigate to Account -> Access Tokens -> Create New Token -> Write
-    - Give your token a name, and save the Token Key (it will only display this once, so save it!!)
-
-> No class Friday, May 9 (Vanderbilt Commencement)
-
-### Week 2, 5/12 - 5/16: Reasoning Models, Introduction to Agents, Multimodal Models and Reinforcement Learning
-
-[Monday](https://vanderbilt.zoom.us/rec/share/5C-ZUrE-yrfG4BsJHKNXPk3LJmOaY2dKpIlv0F5AM8cAkry3XaDejK5kh0z3Ml0c.E5eaRUaNCKTdBy8_): Introduction to AI Models, Reasoning Models, Tool Use and Introduction to Agents
-
-[Breakout Room Working Document](https://docs.google.com/document/d/15deDo3TBlgue_7ueoHake-O3HoEqCZKBZOHWfmfUlFQ/edit?usp=sharing)
-
-[Wednesday](https://vanderbilt.zoom.us/rec/share/WwmpwGQy-iZCZPpwrJak1naU0q2b41NixB9VzyyHieTsiCVkggqT8bBFHxCT8zzx.6pBwTTp2eOEXCONP?startTime=1747238161000): Langflow, Multimodal Models
-
-[Friday](https://vanderbilt.zoom.us/rec/share/D--kMihRU_vG6ivslpILFCmIA807YUbSfnuAIdVGzBI9kZTKoS5c_jFponKB4tix.TwttSuARat9yTzs1?startTime=1747410966000): Reinforcement Learning
-
-### Week 3, 5/19 - 5/23: Parameter Efficient Fine-Tuning and Retrieval Augmented Generation and UIs
-
-[Monday](https://vanderbilt.zoom.us/rec/share/alb6bUDURPc7_k5_-R0_gni8CNvL1Z6OkIwF5JlVOoTz9cw0L8T4TADb-TR-U1L1.IRjWqd2Z2vs23ml6?startTime=1747670103000): Parameter Efficient Finetuning, Introduction to RAG
-
-[Wednesday](https://vanderbilt.zoom.us/rec/share/McwfKnezRyWSdlsmRfw5bbO4vA2Yl0j_TKzIzMtD-wiVbQokM1B0uY_YcB2LrIRe.tfZ10EnISeOZ8eFf): Advanced RAG Techniques, LangChain and LangGraph
-
-> No Class Friday, May 23 (Memorial Day Weekend)
-
-### Week 4, 5/29 - 5/31: Building Tools and Agents, MCP, A2A and other Agentic Frameworks
-
-> No class Monday, May 26 (Memorial Day)
-
-Wednesday: Building Agents, Building Tools
-
-Friday: Advanced Tools, MCP, A2A, Agentic Frameworks
 
 ## Breakout Rooms
 
@@ -98,7 +64,6 @@ Google Docs has a limit of 100 people viewing/editing a document at one time.
 
 Please be sure your display name is set in Zoom. If you are in one of the following special groups, please pre-pend your name with one of the following qualifiers. 
 - Data Science for Social Good: DSSG
-- Center for AI in Protein Dynamics: Protein
 - If you are in a lab and would like your own breakout room: Labname (keep it short, please!)
 - If you are faculty and would like to be in a breakout room with other faculty: Faculty
 
@@ -112,8 +77,6 @@ Looking for the code resources for Summer 2024? View the 2024 repo [here.](https
 
 ## Course Resources
 
-- Prompt Engineering paper https://arxiv.org/abs/2302.11382
-- Prompt Engineering Courserea Course: https://www.coursera.org/learn/prompt-engineering
 - Visual overview of Generative AI from 3Blue1Brown: https://www.youtube.com/watch?v=wjZofJX0v4M 
 - Semester-long course on transformer models, DS 5690. Graduate students and advanced undergraduates can register by contacting Jesse Spencer-Smith. We welcome auditing by a select number of postdoctoral fellows, and drop-ins from faculty! 
 
