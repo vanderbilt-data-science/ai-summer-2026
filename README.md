@@ -24,7 +24,7 @@ Practice your Python skills using the below documents. Choose either a Google Co
 
 ### Getting Accounts
 
-You’ll want to use the most advanced AI chat model that you can get access to. To get a headstart, please create an account with [OpenAI](https://platform.openai.com/docs/overview). We will go over instructions on how to create API keys and more during the sessions. 
+You’ll want to use the most advanced AI chat model that you can get access to. To get a headstart, please create an account with [OpenAI](https://platform.openai.com/docs/overview). We will go over instructions on how to create API keys and more during the sessions. We will be spending a signficant time using Claude, Claude Cowork and Claude Code. Please sign up for a paid Claude account to gain access to these tools. 
 
 
 ### Decide on a Project (recommended)
@@ -73,7 +73,7 @@ For example, I might be *DSSG-Jesse Spencer-Smith*
 ## Workshop Video Recordings
 Video recordings of these workshops can be found on our YouTube [channel](https://www.youtube.com/@VUDataScience/playlists)
 
-Looking for the code resources for Summer 2024? View the 2024 repo [here.](https://github.com/vanderbilt-data-science/ai_summer/tree/main)
+Looking for the code resources for Summer 2025? See the archive folder.
 
 ## Course Resources
 
@@ -84,7 +84,7 @@ Looking for the code resources for Summer 2024? View the 2024 repo [here.](https
 
 ### Compute Grants for Vanderbilt Faculty and Students
 
-DGX A100 Compute Grant: https://forms.gle/2mGfEy9DB4JU2GpZ8
+DGX A100 Compute Grant: [https://forms.gle/2mGfEy9DB4JU2GpZ8](https://forms.gle/EKUNHnUSVPPCh9qX6)
 
 ### Python
 
