@@ -35,7 +35,25 @@ Think about any data you might want to bring to the workshop. Also begin thinkin
 
 Session will run live from 11am-1pm, with an office hour from 1pm to 2pm (all times Central). 
 
-### Week 1, 
+### Week 1
+
+#### Day 1 — Tuesday, May 5, 2026
+
+**Topics covered:**
+- Working with secure data: Vanderbilt's data classification levels (1–4) and the AI tool that fits each one
+- Opting out of training, ChatGPT EDU, Vanderbilt's Amplify, and where Claude / Cowork / Code fall in the framework
+- Working locally: open-source models, quantization, distillation, and PEFT
+- Demo: LM Studio for fully-local model use
+- Tour of Claude Chat vs. Claude Cowork vs. Claude Code (desktop and CLI)
+- What separates a chat from an agent: planning, task files, sub-agents, evaluation
+- How LLMs actually work: tokens, embeddings, attention, MLP, temperature
+- Context as the central problem: tools, MCPs, RAG, and context rot
+- Skills and the agent harness ("Agent 2.0"); progressive disclosure
+- Live build: co-creating a "sensitive field detector" skill in Claude Cowork
+
+**Resources:**
+- [Lecture notes](Lecture-Notes/week1-day1/week1-day1-lecture-notes.md)
+- [Zoom recording](https://vanderbilt.zoom.us/rec/share/8jCW_cYAo8RbyeqBRKQkG_Br5FuSPyUp0Daq4Uokj4gQeF94tIM9kHFui827Ui2C.C8Y4xumD1BjVobtV)
 
 ### Week 2, 
 
