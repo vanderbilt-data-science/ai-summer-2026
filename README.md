@@ -55,6 +55,26 @@ Session will run live from 11am-1pm, with an office hour from 1pm to 2pm (all ti
 - [Lecture notes](Lecture-Notes/week1-day1/week1-day1-lecture-notes.md)
 - [Zoom recording](https://vanderbilt.zoom.us/rec/share/8jCW_cYAo8RbyeqBRKQkG_Br5FuSPyUp0Daq4Uokj4gQeF94tIM9kHFui827Ui2C.C8Y4xumD1BjVobtV)
 
+#### Day 2 — Thursday, May 7, 2026
+
+**Topics covered:**
+- Recap: chat vs. agent (replay), and what "Agent 2.0" means
+- Walkthroughs of two real skills: the sensitive-field detector and the lecture-recording-to-lecture-notes skill that produced these notes
+- Three surfaces for creating skills — Chat, Cowork, Claude Code — and how to match the surface to the skill
+- Anatomy of a SKILL.md: YAML frontmatter, body, `$ARGUMENTS`, and the lesser-known flags (`disable-model-invocation`, `user-invocable`, `allowed-tools`)
+- Progressive disclosure: how metadata / body / bundled-files load in three levels
+- Where skills live: Enterprise vs. Personal/Global (`~/.claude/skills/`) vs. Project (`<project>/.claude/skills/`)
+- Writing skill descriptions that actually trigger
+- Case study: the three-step composable accessible-housing research pipeline (programs → housing → audit)
+- Four design patterns from the pipeline: canonical taxonomies, do/not-do tables, confidence ratings, cross-skill references
+- Skill-building framework and when to reach for the Skill Creator Skill
+- Model Context Protocol (MCP): what it is, how to set up a server, and how skills layer on top of MCPs
+- Claude Code modes (plan / accept-edits / ask), effort levels, and routines
+
+**Resources:**
+- [Lecture notes](Lecture-Notes/week1-day2/week1-day2-lecture-notes.md)
+- [Zoom recording](https://vanderbilt.zoom.us/rec/share/anhF20gurjZiab-ErYiOJ1t1cBV8bhEy6CMkXOdoA5XfBpRHukSim--LTaBN-zwM.6KpavNU327NcOWBX?startTime=1778169302000)
+
 ### Week 2, 
 
 ### Week 3, 
