@@ -75,7 +75,26 @@ Session will run live from 11am-1pm, with an office hour from 1pm to 2pm (all ti
 - [Lecture notes](Lecture-Notes/week1-day2/week1-day2-lecture-notes.md)
 - [Zoom recording](https://vanderbilt.zoom.us/rec/share/anhF20gurjZiab-ErYiOJ1t1cBV8bhEy6CMkXOdoA5XfBpRHukSim--LTaBN-zwM.6KpavNU327NcOWBX?startTime=1778169302000)
 
-### Week 2, 
+### Week 2
+
+#### Day 1 — Tuesday, May 12, 2026
+
+**Topics covered:**
+- Recap of the agent framework with three zoom levels: the LLM, the harness, and the working space
+- Where a skill actually lives on disk — global vs. project vs. session vs. Anthropic-bundled
+- Anatomy of a skill folder: SKILL.md (required), scripts/, references/, evals/, LICENSE
+- How to tell if Claude actually used your skill (and the slash-command trick to force it)
+- One-verb rule for deciding when a task is one skill vs. many
+- Two skill composition patterns: linear chain and fan-out / fan-in
+- Spec-driven development: writing a precise, testable specification before you build
+- Anatomy of a good spec: Goal, Inputs/Outputs, Constraints, Acceptance Criteria
+- Three levels of tests: smoke, correctness, and edge cases
+- Live demos: skill that didn't trigger (vague prompt), the Customize → Skills panel, dissecting a real skill in breakout rooms
+- Office hours: vetting third-party skills, prototyping security middleware, Level-3 Claude on AWS update
+
+**Resources:**
+- [Lecture notes](Lecture-Notes/week2-day1/week2-day1-lecture-notes.md)
+- [Zoom recording](https://vanderbilt.zoom.us/rec/share/zxaHNDHPrwJn0YUDb5UInvvDgnWmeGOJS-L5YoSZa6gFeu6TRgwDcz21nRvnXW2M.fb9kXCmzyHvB_SEt?startTime=1778601193000)
 
 ### Week 3, 
 
