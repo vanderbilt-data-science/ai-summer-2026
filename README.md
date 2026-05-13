@@ -14,17 +14,10 @@ The objective of these workshops is to develop foundational skills in understand
 
 ## Getting Ready for AI Summer
 
-### Learn or Improve Your Python **optional***
-
-Practice your Python skills using the below documents. Choose either a Google Colab for interactive programming environment, or alternatively read through the Google Doc.
-
-- [Colab Notebook Format](https://colab.research.google.com/drive/1PRpyEJQyQc-h3mdKuY2awCEhsHcP8AZ0?usp=sharing)
-
-- [Google Doc Format](https://docs.google.com/document/d/1CUjOkKSZ-YY4R_562IoOQxTZvDZ2MGn-w_lURC8acBo/edit?usp=sharing)
 
 ### Getting Accounts
 
-You’ll want to use the most advanced AI chat model that you can get access to. To get a headstart, please create an account with [OpenAI](https://platform.openai.com/docs/overview). We will go over instructions on how to create API keys and more during the sessions. We will be spending a signficant time using Claude, Claude Cowork and Claude Code. Please sign up for a paid Claude account to gain access to these tools. 
+You’ll want to use the most advanced AI chat model that you can get access to. To get a headstart, please create an account with https://claude.ai/ .  We will be spending a signficant time using Claude, Claude Cowork and Claude Code. Please sign up for a paid Claude account to gain access to these tools. 
 
 
 ### Decide on a Project (recommended)
