@@ -89,6 +89,23 @@ Session will run live from 11am-1pm, with an office hour from 1pm to 2pm (all ti
 - [Lecture notes](Lecture-Notes/week2-day1/week2-day1-lecture-notes.md)
 - [Zoom recording](https://vanderbilt.zoom.us/rec/share/zxaHNDHPrwJn0YUDb5UInvvDgnWmeGOJS-L5YoSZa6gFeu6TRgwDcz21nRvnXW2M.fb9kXCmzyHvB_SEt?startTime=1778601193000)
 
+#### Day 2 — Thursday, May 14, 2026
+
+**Topics covered:**
+- Warm-up Q&A: how prompt engineering changed once context windows got long; scoping agent security by data sensitivity
+- The three surfaces revisited (chat / Cowork / Claude Code) and when to reach for each
+- Live build: a 'Claude developments tracker' newsletter skill in Cowork with Skill Creator's automatic eval loop
+- Breakout reports: meeting-transcript-to-action-items extractor, PhD-level math tutor, Federal Reserve data downloader
+- The plugin marketplace: Legal, Small Business, Bio Research — check before building from scratch
+- AI Ethics guest lecture (Dr. Sarah Burriss): whiteboard activity, personal story tying PageRank to harm via Safiya Noble's *Algorithms of Oppression*
+- Sociotechnical ethics framework (Education / Technology / Policy) and entry points from philosophy, sociology, math, law
+- Governance frameworks (NIST RMF, EU AI Act, AI Bill of Rights, UNICEF) and model cards as a practical accountability mechanism
+- Office hours: AI environmental impact (Myranda's research with Vanderbilt Law Lab), the next 6 months in agents, Obsidian-as-curated-context, AGI redefinition, whether skills are protectable IP
+
+**Resources:**
+- [Lecture notes](Lecture-Notes/week2-day2/week2-day2-lecture-notes.md)
+- [Zoom recording](https://vanderbilt.zoom.us/rec/share/ZU3gLlAk0-xk_CXz0vMfKo0uC60ZOsIEo2QBZju9RSU-8S0L3C_vB7TyLoCRDB7W.pddtHFs6wpcsZU-1?startTime=1778774109000)
+
 ### Week 3, 
 
 ### Week 4, 
