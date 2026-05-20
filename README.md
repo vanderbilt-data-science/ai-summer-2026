@@ -106,7 +106,26 @@ Session will run live from 11am-1pm, with an office hour from 1pm to 2pm (all ti
 - [Lecture notes](Lecture-Notes/week2-day2/week2-day2-lecture-notes.md)
 - [Zoom recording](https://vanderbilt.zoom.us/rec/share/ZU3gLlAk0-xk_CXz0vMfKo0uC60ZOsIEo2QBZju9RSU-8S0L3C_vB7TyLoCRDB7W.pddtHFs6wpcsZU-1?startTime=1778774109000)
 
-### Week 3, 
+### Week 3
+
+#### Day 1 — Tuesday, May 19, 2026
+
+**Topics covered:**
+- How you actually learn agents (use them, don't read about them) and why models can't reliably answer questions about themselves
+- The three surfaces for building skills — Chat, Cowork, Claude Code — and how to choose; curating a subdirectory of source material as context (the 1,500-page Federal Acquisition Regulations example)
+- Models and skills: why a well-authored skill lets Haiku 4.5 perform like Opus 4.7 without skills; author with Opus, run with Haiku; forcing /skill-creator; benchmarking a skill across models
+- Claude Code deep dive: app (managed VM) vs. CLI ('bare iron'); Shift-Tab plan / accept-edits / auto modes; watching the bash and git commands; converting PDFs to Markdown (OCR, context rot, data poisoning); running long, remote, and on a schedule (loop, channels, Claude RC)
+- Live demo: iterating the lecture-notes skill from student feedback — standalone notes, banning the AI-narration voice, timestamps, take-home assignments; reprocessing all prior notes in minutes
+- The Vanderbilt CV skill: a data-then-render architecture (parse to structured JSON, then generate .docx / .md / .pdf)
+- Breakout reports: a monthly interaction gap-analysis skill (Excel + report) and a smart bus-shelter assessment rubric skill
+- Efficiency: tokens are 'thought'; push repeatable work into code inside the skill (MarkItDown for PDFs); goal loops (/goal) for clearly judgeable targets
+- Agents 1.0 (designed, robust, repeatable) vs. Agents 2.0 (dynamic, skill-driven, flexible) and how they compose; putting a skill in front of existing code to absorb failure modes
+- Data sensitivity: email, Level 3 data, and computer use — what's safe to send where
+- Wrap-up: the end of regular AI Summer instruction and the move to self-selected cohorts (course creation; general projects)
+
+**Resources:**
+- [Lecture notes](Lecture-Notes/week3-day1/week3-day1-lecture-notes.md)
+- [Zoom recording](https://vanderbilt.zoom.us/rec/share/eM_0uPbZiLSwWRcDV-_5FGva6GH-75kA62CKN3flykftd62upJXtvT2uokerfZ9p.UEG2ENzkQBRLQ6qk?startTime=1779206108000)
 
 ### Week 4, 
 
