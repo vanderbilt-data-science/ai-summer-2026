@@ -26,7 +26,9 @@ Think about any data you might want to bring to the workshop. Also begin thinkin
 
 ## Workshop Schedule and Recordings
 
-Session will run live from 11am-1pm, with an office hour from 1pm to 2pm (all times Central). 
+Session will run live from 11am-1pm, with an office hour from 1pm to 2pm (all times Central).
+
+All session recordings are posted to the [AI Summer 2026 YouTube playlist](https://www.youtube.com/playlist?list=PL6KxUvysa-7wYhf1QZUkhlQ-6DfOu_3kp).
 
 ### Week 1
 
@@ -46,7 +48,7 @@ Session will run live from 11am-1pm, with an office hour from 1pm to 2pm (all ti
 
 **Resources:**
 - [Lecture notes](Lecture-Notes/week1-day1/week1-day1-lecture-notes.md)
-- [Zoom recording](https://vanderbilt.zoom.us/rec/share/8jCW_cYAo8RbyeqBRKQkG_Br5FuSPyUp0Daq4Uokj4gQeF94tIM9kHFui827Ui2C.C8Y4xumD1BjVobtV)
+- [Recording on YouTube](https://www.youtube.com/playlist?list=PL6KxUvysa-7wYhf1QZUkhlQ-6DfOu_3kp)
 
 #### Day 2 — Thursday, May 7, 2026
 
@@ -66,7 +68,7 @@ Session will run live from 11am-1pm, with an office hour from 1pm to 2pm (all ti
 
 **Resources:**
 - [Lecture notes](Lecture-Notes/week1-day2/week1-day2-lecture-notes.md)
-- [Zoom recording](https://vanderbilt.zoom.us/rec/share/anhF20gurjZiab-ErYiOJ1t1cBV8bhEy6CMkXOdoA5XfBpRHukSim--LTaBN-zwM.6KpavNU327NcOWBX?startTime=1778169302000)
+- [Recording on YouTube](https://www.youtube.com/playlist?list=PL6KxUvysa-7wYhf1QZUkhlQ-6DfOu_3kp)
 
 ### Week 2
 
@@ -87,7 +89,7 @@ Session will run live from 11am-1pm, with an office hour from 1pm to 2pm (all ti
 
 **Resources:**
 - [Lecture notes](Lecture-Notes/week2-day1/week2-day1-lecture-notes.md)
-- [Zoom recording](https://vanderbilt.zoom.us/rec/share/zxaHNDHPrwJn0YUDb5UInvvDgnWmeGOJS-L5YoSZa6gFeu6TRgwDcz21nRvnXW2M.fb9kXCmzyHvB_SEt?startTime=1778601193000)
+- [Recording on YouTube](https://www.youtube.com/playlist?list=PL6KxUvysa-7wYhf1QZUkhlQ-6DfOu_3kp)
 
 #### Day 2 — Thursday, May 14, 2026
 
@@ -104,7 +106,7 @@ Session will run live from 11am-1pm, with an office hour from 1pm to 2pm (all ti
 
 **Resources:**
 - [Lecture notes](Lecture-Notes/week2-day2/week2-day2-lecture-notes.md)
-- [Zoom recording](https://vanderbilt.zoom.us/rec/share/ZU3gLlAk0-xk_CXz0vMfKo0uC60ZOsIEo2QBZju9RSU-8S0L3C_vB7TyLoCRDB7W.pddtHFs6wpcsZU-1?startTime=1778774109000)
+- [Recording on YouTube](https://www.youtube.com/playlist?list=PL6KxUvysa-7wYhf1QZUkhlQ-6DfOu_3kp)
 
 ### Week 3
 
@@ -125,7 +127,7 @@ Session will run live from 11am-1pm, with an office hour from 1pm to 2pm (all ti
 
 **Resources:**
 - [Lecture notes](Lecture-Notes/week3-day1/week3-day1-lecture-notes.md)
-- [Zoom recording](https://vanderbilt.zoom.us/rec/share/eM_0uPbZiLSwWRcDV-_5FGva6GH-75kA62CKN3flykftd62upJXtvT2uokerfZ9p.UEG2ENzkQBRLQ6qk?startTime=1779206108000)
+- [Recording on YouTube](https://www.youtube.com/playlist?list=PL6KxUvysa-7wYhf1QZUkhlQ-6DfOu_3kp)
 
 ### Week 4, 
 
@@ -157,7 +159,7 @@ For example, I might be *DSSG-Jesse Spencer-Smith*
 
 
 ## Workshop Video Recordings
-Video recordings of these workshops can be found on our YouTube [channel](https://www.youtube.com/@VUDataScience/playlists)
+Video recordings of these workshops are on YouTube: the [AI Summer 2026 playlist](https://www.youtube.com/playlist?list=PL6KxUvysa-7wYhf1QZUkhlQ-6DfOu_3kp), or browse all of our playlists on the [VUDataScience channel](https://www.youtube.com/@VUDataScience/playlists).
 
 Looking for the code resources for Summer 2025? See the archive folder.
 

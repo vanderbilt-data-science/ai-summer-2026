@@ -4,7 +4,7 @@ date: "2026-05-19"
 presenter: "Jesse Spencer-Smith (with Myranda Shirk and Jesse Blocher)"
 duration: "~2h 32m"
 source_transcript: "GMT20260519-155508_Recording.transcript.vtt"
-zoom_recording: "https://vanderbilt.zoom.us/rec/share/eM_0uPbZiLSwWRcDV-_5FGva6GH-75kA62CKN3flykftd62upJXtvT2uokerfZ9p.UEG2ENzkQBRLQ6qk?startTime=1779206108000"
+recording: "https://www.youtube.com/playlist?list=PL6KxUvysa-7wYhf1QZUkhlQ-6DfOu_3kp"
 ---
 
 # Building Skills Across Chat, Cowork, and Claude Code
